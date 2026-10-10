@@ -1,8 +1,8 @@
-<# OLED Curtain 1.0 
+<# OLED Curtain
 
 Regulated dimming curtain and cursor flashlight for Windows 11.
-Start: START-OLEDCurtain.cmd or powershell.exe -NoProfile -STA -File .\OLEDCurtain.ps1
-Ctrl+Alt+Space: pause; Ctrl+Alt+M: menu; Ctrl+Alt+Q: end script.
+Start: START-OLED-Curtain.cmd or powershell.exe -NoProfile -STA -File .\OLED-Curtain.ps1
+Ctrl+Alt+Space: pause; Ctrl+Alt+M: menu; Ctrl+Alt+Q: end script. Read readme.md.
 #>
 
 [CmdletBinding()]
