@@ -63,7 +63,7 @@ namespace FocusShadeV2 {
         public int Version = 2;
         public double CurtainTransmission = 15, PanelTransmission = 50;
         public double DiameterPercent = 100.0 / 6, SolidCenterPercent = 55;
-        public double MouseIdleSeconds = 60, FadeSeconds = 0.7, MaxOcclusionPercent = 10;
+        public double MouseIdleSeconds = 3, FadeSeconds = 0.7, MaxOcclusionPercent = 10;
         public int FramesPerSecond = 30, WindowScanMs = 200;
         public bool PauseFullscreen = true, FullscreenAllMonitors = false;
         public bool KeyboardFocus = true;
